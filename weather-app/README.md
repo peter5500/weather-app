@@ -11,11 +11,11 @@ Project features:
 3. Saved user favorite city/location
 4. Implement UI by using styled-components
 
-**APIs Used
+**APIs Used**
 Open Weather APIs
 https://openweathermap.org/current
 
-**Libraries used
+**Libraries used**
 styled-components
 axios
 react-scripts
