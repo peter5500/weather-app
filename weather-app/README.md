@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Notes
 
-**Project features:**
+**Project Features:**
 
 1. Search the forecast weather by city/zip code
 2. Show weather by location
@@ -12,7 +12,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 4. Implement UI by using styled-components
 
 
-**Thoughts**
+**Design Process**
 
 1. Utilize states and props for manage data and control flow, also hooks for states managament and API call
 2. Seperate into multiple function components for each corresponding logic that the forecast app needed
@@ -29,8 +29,8 @@ https://openweathermap.org
 
 **Libraries used**
 
--styled-components
+- styled-components
 
--axios
+- axios
 
--react-scripts
+- react-scripts
