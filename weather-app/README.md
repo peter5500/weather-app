@@ -19,6 +19,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 3. Build the UI by implement styled-components which provide easy maintenance and solve complex css problems
 
 
+
 **APIs Used**
 
 Open Weather APIs
