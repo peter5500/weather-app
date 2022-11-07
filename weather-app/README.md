@@ -19,6 +19,8 @@ https://openweathermap.org/current
 
 **Libraries used**
 
-styled-components
-axios
-react-scripts
+-styled-components
+
+-axios
+
+-react-scripts
