@@ -27,7 +27,7 @@ Open Weather APIs
 https://openweathermap.org
 
 
-**Libraries used**
+**Libraries Used**
 
 - styled-components
 
