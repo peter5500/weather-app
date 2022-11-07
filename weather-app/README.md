@@ -12,10 +12,13 @@ Project features:
 4. Implement UI by using styled-components
 
 **APIs Used**
+
 Open Weather APIs
+
 https://openweathermap.org/current
 
 **Libraries used**
+
 styled-components
 axios
 react-scripts
